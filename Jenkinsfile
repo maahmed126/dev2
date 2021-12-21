@@ -6,7 +6,7 @@ pipeline {
 stages {			
         stage('Build') {			
             steps {			
-                echo 'DownstreamJob pipeline-triggers-upstream executed'
+                echo 'DownstreamJob Dev2Multibranch pipeline-triggers-upstream executed'
             }			
         }			
     }	
